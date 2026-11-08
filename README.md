@@ -27,7 +27,7 @@ To run correctly, you will need:
 
 1. Clone the repository or download the `shell.qml` file:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/DogHotDog88/quickshell-xp-bar.git
 
     Copy the config to the Quickshell folder:
     bash
@@ -121,7 +121,7 @@ This project is distributed under the MIT License. Feel free to fork, modify, an
 
 1. Клонируйте репозиторий или просто скачайте файл `shell.qml`:
    ```bash
-   git clone https://github.com/ваш-ник/ваш-репозиторий.git
+   git clone https://github.com/DogHotDog88/quickshell-xp-bar.git
 
     Скопируйте конфигурацию в папку Quickshell:
     bash
