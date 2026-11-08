@@ -1,5 +1,7 @@
 # Windows XP Style Quickshell Bar
 
+<img width="1366" height="30" alt="image" src="https://github.com/user-attachments/assets/64bef1b3-547f-40d4-bd97-a43da62b5595" />
+
 **Disclaimer:** This is **not** a pixel-perfect copy of the original Windows XP taskbar. It is a modern, functional bar for Wayland compositors (tested on `labwc`), powered by the **Quickshell** engine, and merely **styled** after the classic Windows XP Luna theme.
 All logic is written in QML and uses modern Wayland protocols, PipeWire, and MPRIS.
 
